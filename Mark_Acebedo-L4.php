@@ -4,7 +4,7 @@
 	define("HOST", "mysql1.000webhost.com");
 	define("DBNAME", "a8773318_acebedo");
 	define("DBUSER", "a8773318_acebedo");
-	define("PWD", "Dublin2013");
+	define("PWD", "");
 
 	$dbc=0;
 	$dbc = mysqli_connect(HOST, DBUSER, PWD, DBNAME)
